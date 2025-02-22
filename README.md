@@ -1,4 +1,4 @@
-# The-HIgest-Ever-Mountain
+# The-Higest-Ever-Mountain
 A overpowered script I made.
 
 essentially the roblox game: https://www.roblox.com/games/19003126417/The-Highest-Ever-Mountain?gameSetTypeId=100000003&homePageSessionInfo=edbe250e-4c52-4862-b3cf-1109b3c38260&isAd=false&numberOfLoadedTiles=8&page=homePage&placeId=19003126417&playContext=homePage&position=0&sortPos=3&universeId=6440011936
